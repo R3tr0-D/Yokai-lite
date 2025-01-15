@@ -1,11 +1,11 @@
 # Yokai-lite
-An ultra-lightweight toolhead is designed from the ground up.
+An ultra-lightweight toolhead designed from the ground up.
 
 <img width="657" alt="Image" src="https://github.com/user-attachments/assets/d24e7ce2-a0f5-4cc7-8c04-d41829ac6f01" />
 <img width="559" alt="Image" src="https://github.com/user-attachments/assets/b959e7a7-826d-4a11-8bc0-020bd484a28a" />
 <img width="788" alt="Image" src="https://github.com/user-attachments/assets/6e3ecd7f-efa3-43c8-828c-4dacca8facd3" />
 
-###Key Features include:
+### Key Features include:
 - Ultra Lightweight. 
 - Cpap Design. 
 - Led Ready
